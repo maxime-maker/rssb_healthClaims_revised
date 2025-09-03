@@ -20,7 +20,8 @@ limited to these):
 healthcare costs?
 2. Are there any variations in costs based on member demographics, plan type,
 or geographic location?
-Data Analyst Technical Challenge 2
+3. Can you identify any potential areas for cost savings through negotiations with
+healthcare providers or by implementing disease management programs?
 
 
 <img width="1918" height="813" alt="image" src="https://github.com/user-attachments/assets/27a3f87a-2845-4444-8aab-4f3cf010ed2e" />
