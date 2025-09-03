@@ -24,4 +24,7 @@ or geographic location?
 healthcare providers or by implementing disease management programs?
 
 
+### power BI file link: https://drive.google.com/file/d/1OyvR3JiC2lrvuP-rGLNURU4dBbN56vtq/view?usp=sharing 
+
+
 <img width="1918" height="813" alt="image" src="https://github.com/user-attachments/assets/27a3f87a-2845-4444-8aab-4f3cf010ed2e" />
